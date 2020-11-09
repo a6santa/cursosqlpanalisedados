@@ -20,3 +20,7 @@ conteudo = 'Iniciante'
 
 - [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vSf3P4KsMbOkBKUDn-j0gy2pm7TM413wb1jRpOGo561_NUQ8xxgcV1vThAClOCqrzntfLNeiaSyt7L0/pub?start=false&loop=false&delayms=3000)
 - [Apostila](https://docs.google.com/document/d/e/2PACX-1vTffZpfpm-1NqDnqqRSQNe9fsg9VyUBGN9Jv5m847dg_Izr6_39tNjUEBNO0cQm56RJonN1YoWV-YIf/pub)
+
+## Acesso a base
+Para usar base, voce pode instalar o mysql na sua maquina ou em alguma cloud que disponibiliza acesso gratuito para teste, existem varios videos e passo a passo
+ [segue alguns](https://www.google.com/search?q=como+instalar+mysql+no+windows&rlz=1C5CHFA_enBR897BR897&oq=instalar+mysql+no+com&aqs=chrome.1.69i57j0i22i30l7.15522j0j4&sourceid=chrome&ie=UTF-8).
