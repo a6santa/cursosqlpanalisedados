@@ -40,8 +40,8 @@ CREATE TABLE vendedor (
     nome VARCHAR(500)  NULL,
     time VARCHAR(500)  NULL,
     lider VARCHAR(500)  NULL,
-    data_ini date  NULL,
-    data_fim date  NOT NULL,
+    data_ini date  NOT NULL,
+    data_fim date  NULL,
     CONSTRAINT vendedor_pk PRIMARY KEY (id_vendedor)
 );
 
@@ -51,8 +51,8 @@ CREATE TABLE vendas (
     fk_produto INTEGER  NOT NULL,
     fk_data INTEGER  NOT NULL,
     fk_metas INTEGER  NOT NULL,
-    qtd_venda INTEGER  NULL,
-    valor_venda DECIMAL(17,9)  NULL,
+    qtd_venda INTEGER  NOT NULL,
+    valor_venda DECIMAL(17,9)  NOT NULL,
     CONSTRAINT vendas_data FOREIGN KEY (fk_data) REFERENCES data (id_data),
     CONSTRAINT vendas_metas FOREIGN KEY (fk_metas) REFERENCES metas (id_meta),
     CONSTRAINT vendas_produto FOREIGN KEY (fk_produto) REFERENCES produto (id_produto),
