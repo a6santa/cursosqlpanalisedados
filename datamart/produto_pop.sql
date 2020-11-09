@@ -1,0 +1,15 @@
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (1, 'Johnna Barling', 'Red', 'Marya Sheal', '2019/04/17', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (2, 'Ive Clint', 'Goldenrod', 'Ardith Gilchriest', '2016/07/17', '2020/04/29');
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (3, 'Cornelle Caltun', 'Goldenrod', 'Woodie Solomonides', '2018/08/30', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (4, 'Guglielmo Sparkwell', 'Turquoise', 'Tome Crookshanks', '2015/09/05', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (5, 'Esmeralda Rosenschein', 'Mauv', 'Essie Crosston', '2017/12/06', '2020/09/21');
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (6, 'Ric Trevithick', 'Fuscia', 'Felicle Gorries', '2015/09/12', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (7, 'Adeline Fairpo', 'Green', 'Jackson Dulen', '2016/04/08', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (8, 'Garvy Leckie', 'Violet', 'Miltie Spargo', '2017/07/23', '2020/06/01');
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (9, 'Nancee Dosdill', 'Violet', 'Reginauld Fraschini', '2019/03/19', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (10, 'Lizzy Massie', 'Fuscia', 'Paton Crooks', '2019/09/16', '2020/10/04');
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (11, 'Haley Autry', 'Pink', 'Fan Nairns', '2015/09/20', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (12, 'Lonnard Shearn', 'Fuscia', 'Jehanna Hanhardt', '2019/05/27', '2020/09/06');
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (13, 'Drugi Gaffey', 'Green', 'Kyle Trustrie', '2016/11/23', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (14, 'Alisa Wharrier', 'Khaki', 'Waite Woodburn', '2016/11/21', null);
+insert into vendedor (id_vendedor, nome, time, lider, data_ini, data_fim) values (15, 'Car Descroix', 'Fuscia', 'Ilario Sturzaker', '2017/02/28', '2020/04/04');
