@@ -1,0 +1,15 @@
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (1, 15000, 5, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (2, 500000, 7, false, true, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (3, 430000, 10, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (4, 150000, 11, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (5, 15000, 13, false, true, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (6, 500000, 4, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (7, 430000, 6, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (8, 150000, 8, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (9, 15000, 9, false, true, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (10, 500000, 14, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (11, 430000, 1, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (12, 150000, 2, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (13, 15000, 3, false, true, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (14, 500000, 12, true, false, '2020/01/01', '2020/11/30');
+INSERT INTO metas (id_meta, valor, id_vendedor, diaria, mensal, data_inicio, data_fim) VALUES (15, 430000, 15, true, false, '2020/01/01', '2020/11/30');
